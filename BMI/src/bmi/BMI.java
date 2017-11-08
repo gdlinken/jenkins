@@ -20,6 +20,7 @@ public class BMI {
 
     public static void main(String[] args) {
         System.out.println("---- Welcome To BMI Program ----");
+        System.out.println("day la cau da duoc in them");
         System.out.println();
 
         do {            
